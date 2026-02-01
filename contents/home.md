@@ -1,20 +1,22 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/我的-github-blue?logo=github)](https://github.com/lychee-garden)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+#### 手机/微信
+18091183711
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### 邮箱  
+<code>2353751@tongji.edu.cn</code>  
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+#### 教育经历 
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**同济大学**, 2023/9/1-2027/7/1。
+*绩点：* 4.46/5.00 (top 20%)  
+*排名：* 18/95
+**高考**，2023/6/7-2023/6/8。
+*总分：* 663（语文127，数学134，英语120，理综282）
+*排名：* 809（陕西省共30万高考考生）
+**西工大附中**,2020/9/1-2023/7/1。
+有过高二一年的参加物竞的经历。
+*物竞排名：* 27（陕西省队数量17）
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+#### 感兴趣领域  
+大语言模型，强化学习

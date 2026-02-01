@@ -1,21 +1,19 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **自学软工**  
+**2023年9月 – 2026年1月 | 同济大学**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+大一上，热衷于历史地理，熟知从先秦到北宋的历史。
+大一下，自学c++与数电，通过图灵完备游戏了解计算机组成原理。
+大二上，自学计算机系统、计算机网络，开始力扣刷题。
+大二下，力扣刷题数超过200，自学人工智能李沐网课。
+大三上，自学英语，词汇量扩充超2000。
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+### **人工智能实习**  
+**2025年4月 – 2026年1月 | 浙江大学**  
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 对外，帮助学长完成项目指标对比实验。  
+- 对内，独自构建项目的训练与推理代码。  
+- 对内，独自构建chatbot的可视化框架。
+- 对内，了解全流程的发论文环节，并实践了前半段。

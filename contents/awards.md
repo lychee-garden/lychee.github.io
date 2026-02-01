@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 校级二等奖学金, 2025.
+- 蓝桥杯省级二等奖，2025.
+- 校级三等奖学金，2024.
